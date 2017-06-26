@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230167456277",
+    "firebase_url": "https://messagingapp-82bb4.firebaseio.com",
+    "project_id": "messagingapp-82bb4",
+    "storage_bucket": "messagingapp-82bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230167456277:android:51226a7ce437bbae",
+        "android_client_info": {
+          "package_name": "com.chadali.ncstatemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230167456277-upb6s11vr74753eeqbgdfplcpkcoj4eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chadali.ncstatemessaging",
+            "certificate_hash": "5a291d9279b4c43319dc6dc2206fee5ac1030d57"
+          }
+        },
+        {
+          "client_id": "230167456277-gi4numijkq8u6nraq1g9l50cb6k58jm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8dfkh-ws392_SIkt7iDbsUQ9nWbxuT80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230167456277-gi4numijkq8u6nraq1g9l50cb6k58jm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
